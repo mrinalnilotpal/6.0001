@@ -1,7 +1,7 @@
 # 6.0001  Python for Data science
 Reference_for_python
 
-The contents of this Repository contains three folders.
+# The contents of this Repository contains three folders.
    1. Lecture slides
    2. Psets
    3. Codes 
